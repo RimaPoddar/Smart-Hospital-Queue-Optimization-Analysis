@@ -197,10 +197,15 @@ Built an interactive dashboard containing:
 **Visualizations**
 
 **1** Patients by Time of Day
+
 **2** Avg Wait Time by Hospital
+
 **3** Load Distribution
+
 **4** Avg Wait by Urgency
+
 **5** Nurse-to-Patient Ratio vs Wait Time
+
 **6** Weekday vs Weekend Traffic
 
 **Filters Added**
