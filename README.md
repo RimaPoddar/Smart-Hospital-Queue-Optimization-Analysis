@@ -160,14 +160,23 @@ Performed analytical queries:
 **Key SQL questions solved:**
 
 **1** Total number of patients
+
 **2** Average waiting time
+
 **3** Peak time of day
+
 **4** Weekday vs weekend traffic
+
 **5** Hospital-wise average wait time
+
 **6** Urgency-level waiting time
+
 **7** High load vs normal load
+
 **8** Regional patient distribution
+
 **9** Staff availability impact
+
 **10** Satisfaction analysis
 
 Purpose:
